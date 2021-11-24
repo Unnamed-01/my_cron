@@ -1,0 +1,1 @@
+{"cron_settings": {"cron_path": "/var/spool/cron/crontabs/", "username": "a"}, "logging_settings": {"file_name": "/configparser.log", "logging_level": 10}}

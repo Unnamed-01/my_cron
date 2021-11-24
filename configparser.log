@@ -1,0 +1,1203 @@
+2021-11-24 11:58:39,795 : INFO : Configured configparser
+2021-11-24 11:58:39,795 : INFO : Try for read json config file
+2021-11-24 11:58:39,796 : DEBUG : Path to the json config file: /home/a/Desktop/Py/my_cron/cron_parser_config.json
+2021-11-24 11:58:39,796 : DEBUG : Config file: {'cron_settings': {'cron_path': '/var/spool/cron/crontabs/', 'username': 'a'}, 'logging_settings': {'file_name': '/configparser.log', 'logging_level': 10}}
+2021-11-24 11:58:39,796 : DEBUG : Config file: {'cron_settings': {'cron_path': '/var/spool/cron/crontabs/', 'username': 'a'}, 'logging_settings': {'file_name': '/configparser.log', 'logging_level': 10}}
+2021-11-24 11:58:39,796 : INFO : Try to read cron file
+2021-11-24 11:58:39,804 : INFO : Trying run commands
+2021-11-24 11:58:39,804 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 11:58:39,815 : INFO : Go to the next time
+2021-11-24 11:58:39,815 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 11:58:39,816 : INFO : Go to the next time
+2021-11-24 11:58:39,816 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 11:58:39,816 : INFO : Go to the next time
+2021-11-24 11:58:39,817 : DEBUG : Will check this time: @hourly
+2021-11-24 11:58:39,827 : INFO : Go to the next time
+2021-11-24 11:58:39,828 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 11:58:39,835 : INFO : Go to the next time
+2021-11-24 11:58:39,835 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 11:58:39,837 : INFO : Go to the next time
+2021-11-24 11:58:39,837 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 11:58:39,847 : INFO : Go to the next time
+2021-11-24 11:59:38,905 : INFO : Try to read cron file
+2021-11-24 11:59:38,919 : INFO : Trying run commands
+2021-11-24 11:59:38,920 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 11:59:38,925 : INFO : Go to the next time
+2021-11-24 11:59:38,929 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 11:59:38,930 : INFO : Go to the next time
+2021-11-24 11:59:38,931 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 11:59:38,937 : INFO : Go to the next time
+2021-11-24 11:59:38,937 : DEBUG : Will check this time: @hourly
+2021-11-24 11:59:38,939 : INFO : Go to the next time
+2021-11-24 11:59:38,939 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 11:59:38,948 : INFO : Go to the next time
+2021-11-24 11:59:38,949 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 11:59:38,951 : INFO : Go to the next time
+2021-11-24 11:59:38,952 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 11:59:38,958 : INFO : Go to the next time
+2021-11-24 12:00:38,017 : INFO : Try to read cron file
+2021-11-24 12:00:38,031 : INFO : Trying run commands
+2021-11-24 12:00:38,032 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:00:38,037 : INFO : Go to the next time
+2021-11-24 12:00:38,038 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:00:38,039 : INFO : Go to the next time
+2021-11-24 12:00:38,039 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:00:38,040 : INFO : Go to the next time
+2021-11-24 12:00:38,041 : DEBUG : Will check this time: @hourly
+2021-11-24 12:00:38,046 : DEBUG : Entered into task with time @hourly
+2021-11-24 12:00:38,046 : DEBUG : Will run command: 'Every hour' >> ~/Desktop/Scripts/test
+2021-11-24 12:00:38,055 : INFO : Go to the next time
+2021-11-24 12:00:38,066 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:00:38,079 : INFO : Command 'Every hour' >> ~/Desktop/Scripts/test completed successfully
+2021-11-24 12:00:38,082 : INFO : Go to the next time
+2021-11-24 12:00:38,083 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:00:38,084 : INFO : Go to the next time
+2021-11-24 12:00:38,084 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:00:38,090 : INFO : Go to the next time
+2021-11-24 12:01:37,149 : INFO : Try to read cron file
+2021-11-24 12:01:37,163 : INFO : Trying run commands
+2021-11-24 12:01:37,163 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:01:37,166 : INFO : Go to the next time
+2021-11-24 12:01:37,167 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:01:37,168 : INFO : Go to the next time
+2021-11-24 12:01:37,171 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:01:37,172 : INFO : Go to the next time
+2021-11-24 12:01:37,173 : DEBUG : Will check this time: @hourly
+2021-11-24 12:01:37,176 : INFO : Go to the next time
+2021-11-24 12:01:37,177 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:01:37,179 : INFO : Go to the next time
+2021-11-24 12:01:37,179 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:01:37,189 : INFO : Go to the next time
+2021-11-24 12:01:37,189 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:01:37,191 : INFO : Go to the next time
+2021-11-24 12:02:36,249 : INFO : Try to read cron file
+2021-11-24 12:02:36,271 : INFO : Trying run commands
+2021-11-24 12:02:36,272 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:02:36,283 : INFO : Go to the next time
+2021-11-24 12:02:36,283 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:02:36,284 : INFO : Go to the next time
+2021-11-24 12:02:36,285 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:02:36,294 : INFO : Go to the next time
+2021-11-24 12:02:36,295 : DEBUG : Will check this time: @hourly
+2021-11-24 12:02:36,296 : INFO : Go to the next time
+2021-11-24 12:02:36,296 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:02:36,327 : INFO : Go to the next time
+2021-11-24 12:02:36,327 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:02:36,329 : INFO : Go to the next time
+2021-11-24 12:02:36,329 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:02:36,341 : INFO : Go to the next time
+2021-11-24 12:26:31,400 : INFO : Configured configparser
+2021-11-24 12:26:31,404 : INFO : Try for read json config file
+2021-11-24 12:26:31,404 : DEBUG : Path to the json config file: /home/a/Desktop/Py/my_cron/cron_parser_config.json
+2021-11-24 12:26:31,404 : DEBUG : Config file: {'cron_settings': {'cron_path': '/var/spool/cron/crontabs/', 'username': 'a'}, 'logging_settings': {'file_name': '/configparser.log', 'logging_level': 10}}
+2021-11-24 12:26:31,404 : DEBUG : Config file: {'cron_settings': {'cron_path': '/var/spool/cron/crontabs/', 'username': 'a'}, 'logging_settings': {'file_name': '/configparser.log', 'logging_level': 10}}
+2021-11-24 12:26:31,404 : INFO : Try to read cron file
+2021-11-24 12:26:31,412 : INFO : Trying run commands
+2021-11-24 12:26:31,415 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:26:31,416 : INFO : Go to the next time
+2021-11-24 12:26:31,417 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:26:31,420 : INFO : Go to the next time
+2021-11-24 12:26:31,420 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:26:31,423 : INFO : Go to the next time
+2021-11-24 12:26:31,424 : DEBUG : Will check this time: @hourly
+2021-11-24 12:26:31,424 : INFO : Go to the next time
+2021-11-24 12:26:31,426 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:26:31,427 : INFO : Go to the next time
+2021-11-24 12:26:31,427 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:26:31,428 : INFO : Go to the next time
+2021-11-24 12:26:31,429 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:26:31,434 : INFO : Go to the next time
+2021-11-24 12:27:30,493 : INFO : Try to read cron file
+2021-11-24 12:27:30,505 : INFO : Trying run commands
+2021-11-24 12:27:30,509 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:27:30,510 : INFO : Go to the next time
+2021-11-24 12:27:30,510 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:27:30,511 : INFO : Go to the next time
+2021-11-24 12:27:30,511 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:27:30,512 : INFO : Go to the next time
+2021-11-24 12:27:30,512 : DEBUG : Will check this time: @hourly
+2021-11-24 12:27:30,517 : INFO : Go to the next time
+2021-11-24 12:27:30,518 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:27:30,519 : INFO : Go to the next time
+2021-11-24 12:27:30,519 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:27:30,524 : INFO : Go to the next time
+2021-11-24 12:27:30,525 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:27:30,527 : INFO : Go to the next time
+2021-11-24 12:28:44,829 : INFO : Try to read cron file
+2021-11-24 12:28:44,833 : INFO : Trying run commands
+2021-11-24 12:28:44,839 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:28:44,841 : INFO : Go to the next time
+2021-11-24 12:28:44,841 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:28:44,842 : INFO : Go to the next time
+2021-11-24 12:28:44,842 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:28:44,843 : INFO : Go to the next time
+2021-11-24 12:28:44,843 : DEBUG : Will check this time: @hourly
+2021-11-24 12:28:44,843 : INFO : Go to the next time
+2021-11-24 12:28:44,844 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:28:44,845 : INFO : Go to the next time
+2021-11-24 12:28:44,845 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:28:44,854 : INFO : Go to the next time
+2021-11-24 12:28:44,855 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:28:44,856 : INFO : Go to the next time
+2021-11-24 12:29:33,565 : INFO : Try to read cron file
+2021-11-24 12:29:33,574 : INFO : Trying run commands
+2021-11-24 12:29:33,574 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:29:33,575 : INFO : Go to the next time
+2021-11-24 12:29:33,576 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:29:33,582 : INFO : Go to the next time
+2021-11-24 12:29:33,585 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:29:33,586 : INFO : Go to the next time
+2021-11-24 12:29:33,587 : DEBUG : Will check this time: @hourly
+2021-11-24 12:29:33,588 : INFO : Go to the next time
+2021-11-24 12:29:33,588 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:29:33,611 : INFO : Go to the next time
+2021-11-24 12:29:33,617 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:29:33,620 : INFO : Go to the next time
+2021-11-24 12:29:33,620 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:29:33,699 : INFO : Go to the next time
+2021-11-24 12:29:43,913 : INFO : Try to read cron file
+2021-11-24 12:29:43,927 : INFO : Trying run commands
+2021-11-24 12:29:43,932 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:29:43,934 : INFO : Go to the next time
+2021-11-24 12:29:43,934 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:29:43,935 : INFO : Go to the next time
+2021-11-24 12:29:43,936 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:29:43,941 : INFO : Go to the next time
+2021-11-24 12:29:43,942 : DEBUG : Will check this time: @hourly
+2021-11-24 12:29:43,942 : INFO : Go to the next time
+2021-11-24 12:29:43,943 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:29:43,944 : INFO : Go to the next time
+2021-11-24 12:29:43,944 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:29:43,951 : INFO : Go to the next time
+2021-11-24 12:29:43,952 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:29:43,953 : INFO : Go to the next time
+2021-11-24 12:30:32,757 : INFO : Try to read cron file
+2021-11-24 12:30:32,782 : INFO : Trying run commands
+2021-11-24 12:30:32,790 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:30:32,791 : INFO : Go to the next time
+2021-11-24 12:30:32,791 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:30:32,792 : INFO : Go to the next time
+2021-11-24 12:30:32,792 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:30:32,806 : INFO : Go to the next time
+2021-11-24 12:30:32,806 : DEBUG : Will check this time: @hourly
+2021-11-24 12:30:32,830 : INFO : Go to the next time
+2021-11-24 12:30:32,831 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:30:32,832 : INFO : Go to the next time
+2021-11-24 12:30:32,833 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:30:32,851 : INFO : Go to the next time
+2021-11-24 12:30:32,852 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:30:32,867 : INFO : Go to the next time
+2021-11-24 12:30:43,009 : INFO : Try to read cron file
+2021-11-24 12:30:43,024 : INFO : Trying run commands
+2021-11-24 12:30:43,025 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:30:43,040 : INFO : Go to the next time
+2021-11-24 12:30:43,041 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:30:43,043 : INFO : Go to the next time
+2021-11-24 12:30:43,044 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:30:43,059 : INFO : Go to the next time
+2021-11-24 12:30:43,059 : DEBUG : Will check this time: @hourly
+2021-11-24 12:30:43,072 : INFO : Go to the next time
+2021-11-24 12:30:43,072 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:30:43,078 : INFO : Go to the next time
+2021-11-24 12:30:43,079 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:30:43,093 : INFO : Go to the next time
+2021-11-24 12:30:43,093 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:30:43,095 : INFO : Go to the next time
+2021-11-24 12:31:31,925 : INFO : Try to read cron file
+2021-11-24 12:31:31,943 : INFO : Trying run commands
+2021-11-24 12:31:31,947 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:31:31,948 : INFO : Go to the next time
+2021-11-24 12:31:31,949 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:31:31,955 : INFO : Go to the next time
+2021-11-24 12:31:31,956 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:31:31,964 : INFO : Go to the next time
+2021-11-24 12:31:31,965 : DEBUG : Will check this time: @hourly
+2021-11-24 12:31:31,966 : INFO : Go to the next time
+2021-11-24 12:31:31,966 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:31:31,967 : INFO : Go to the next time
+2021-11-24 12:31:31,968 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:31:31,978 : INFO : Go to the next time
+2021-11-24 12:31:31,978 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:31:31,980 : INFO : Go to the next time
+2021-11-24 12:31:42,153 : INFO : Try to read cron file
+2021-11-24 12:31:42,160 : INFO : Trying run commands
+2021-11-24 12:31:42,163 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:31:42,164 : INFO : Go to the next time
+2021-11-24 12:31:42,164 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:31:42,167 : INFO : Go to the next time
+2021-11-24 12:31:42,167 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:31:42,168 : INFO : Go to the next time
+2021-11-24 12:31:42,168 : DEBUG : Will check this time: @hourly
+2021-11-24 12:31:42,169 : INFO : Go to the next time
+2021-11-24 12:31:42,169 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:31:42,173 : INFO : Go to the next time
+2021-11-24 12:31:42,173 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:31:42,175 : INFO : Go to the next time
+2021-11-24 12:31:42,176 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:31:42,177 : INFO : Go to the next time
+2021-11-24 12:32:31,037 : INFO : Try to read cron file
+2021-11-24 12:32:31,049 : INFO : Trying run commands
+2021-11-24 12:32:31,053 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:32:31,055 : INFO : Go to the next time
+2021-11-24 12:32:31,055 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:32:31,056 : INFO : Go to the next time
+2021-11-24 12:32:31,056 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:32:31,064 : INFO : Go to the next time
+2021-11-24 12:32:31,065 : DEBUG : Will check this time: @hourly
+2021-11-24 12:32:31,073 : INFO : Go to the next time
+2021-11-24 12:32:31,073 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:32:31,075 : INFO : Go to the next time
+2021-11-24 12:32:31,075 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:32:31,085 : INFO : Go to the next time
+2021-11-24 12:32:31,085 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:32:31,087 : INFO : Go to the next time
+2021-11-24 12:32:41,233 : INFO : Try to read cron file
+2021-11-24 12:32:41,245 : INFO : Trying run commands
+2021-11-24 12:32:41,245 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:32:41,253 : INFO : Go to the next time
+2021-11-24 12:32:41,255 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:32:41,257 : INFO : Go to the next time
+2021-11-24 12:32:41,261 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:32:41,262 : INFO : Go to the next time
+2021-11-24 12:32:41,262 : DEBUG : Will check this time: @hourly
+2021-11-24 12:32:41,263 : INFO : Go to the next time
+2021-11-24 12:32:41,263 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:32:41,269 : INFO : Go to the next time
+2021-11-24 12:32:41,269 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:32:41,271 : INFO : Go to the next time
+2021-11-24 12:32:41,271 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:32:41,272 : INFO : Go to the next time
+2021-11-24 12:33:30,145 : INFO : Try to read cron file
+2021-11-24 12:33:30,171 : INFO : Trying run commands
+2021-11-24 12:33:30,171 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:33:30,173 : INFO : Go to the next time
+2021-11-24 12:33:30,183 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:33:30,186 : INFO : Go to the next time
+2021-11-24 12:33:30,186 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:33:30,187 : INFO : Go to the next time
+2021-11-24 12:33:30,187 : DEBUG : Will check this time: @hourly
+2021-11-24 12:33:30,188 : INFO : Go to the next time
+2021-11-24 12:33:30,194 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:33:30,206 : INFO : Go to the next time
+2021-11-24 12:33:30,206 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:33:30,208 : INFO : Go to the next time
+2021-11-24 12:33:30,208 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:33:30,214 : INFO : Go to the next time
+2021-11-24 12:33:40,331 : INFO : Try to read cron file
+2021-11-24 12:33:40,350 : INFO : Trying run commands
+2021-11-24 12:33:40,350 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:33:40,352 : INFO : Go to the next time
+2021-11-24 12:33:40,352 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:33:40,353 : INFO : Go to the next time
+2021-11-24 12:33:40,353 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:33:40,360 : INFO : Go to the next time
+2021-11-24 12:33:40,360 : DEBUG : Will check this time: @hourly
+2021-11-24 12:33:40,370 : INFO : Go to the next time
+2021-11-24 12:33:40,370 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:33:40,372 : INFO : Go to the next time
+2021-11-24 12:33:40,372 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:33:40,383 : INFO : Go to the next time
+2021-11-24 12:33:40,383 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:33:40,394 : INFO : Go to the next time
+2021-11-24 12:34:29,273 : INFO : Try to read cron file
+2021-11-24 12:34:29,281 : INFO : Trying run commands
+2021-11-24 12:34:29,284 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:34:29,285 : INFO : Go to the next time
+2021-11-24 12:34:29,285 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:34:29,292 : INFO : Go to the next time
+2021-11-24 12:34:29,292 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:34:29,295 : INFO : Go to the next time
+2021-11-24 12:34:29,295 : DEBUG : Will check this time: @hourly
+2021-11-24 12:34:29,297 : INFO : Go to the next time
+2021-11-24 12:34:29,297 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:34:29,300 : INFO : Go to the next time
+2021-11-24 12:34:29,300 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:34:29,301 : INFO : Go to the next time
+2021-11-24 12:34:29,301 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:34:29,304 : INFO : Go to the next time
+2021-11-24 12:34:39,453 : INFO : Try to read cron file
+2021-11-24 12:34:39,456 : INFO : Trying run commands
+2021-11-24 12:34:39,456 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:34:39,463 : INFO : Go to the next time
+2021-11-24 12:34:39,463 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:34:39,464 : INFO : Go to the next time
+2021-11-24 12:34:39,464 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:34:39,465 : INFO : Go to the next time
+2021-11-24 12:34:39,465 : DEBUG : Will check this time: @hourly
+2021-11-24 12:34:39,495 : INFO : Go to the next time
+2021-11-24 12:34:39,495 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:34:39,498 : INFO : Go to the next time
+2021-11-24 12:34:39,498 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:34:39,499 : INFO : Go to the next time
+2021-11-24 12:34:39,500 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:34:39,501 : INFO : Go to the next time
+2021-11-24 12:35:28,361 : INFO : Try to read cron file
+2021-11-24 12:35:28,365 : INFO : Trying run commands
+2021-11-24 12:35:28,368 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:35:28,371 : INFO : Go to the next time
+2021-11-24 12:35:28,372 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:35:28,372 : INFO : Go to the next time
+2021-11-24 12:35:28,372 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:35:28,377 : INFO : Go to the next time
+2021-11-24 12:35:28,378 : DEBUG : Will check this time: @hourly
+2021-11-24 12:35:28,378 : INFO : Go to the next time
+2021-11-24 12:35:28,378 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:35:28,379 : INFO : Go to the next time
+2021-11-24 12:35:28,380 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:35:28,380 : INFO : Go to the next time
+2021-11-24 12:35:28,385 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:35:28,386 : INFO : Go to the next time
+2021-11-24 12:35:38,559 : INFO : Try to read cron file
+2021-11-24 12:35:38,568 : INFO : Trying run commands
+2021-11-24 12:35:38,568 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:35:38,573 : INFO : Go to the next time
+2021-11-24 12:35:38,573 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:35:38,574 : INFO : Go to the next time
+2021-11-24 12:35:38,574 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:35:38,575 : INFO : Go to the next time
+2021-11-24 12:35:38,575 : DEBUG : Will check this time: @hourly
+2021-11-24 12:35:38,575 : INFO : Go to the next time
+2021-11-24 12:35:38,575 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:35:38,581 : INFO : Go to the next time
+2021-11-24 12:35:38,581 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:35:38,582 : INFO : Go to the next time
+2021-11-24 12:35:38,582 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:35:38,583 : INFO : Go to the next time
+2021-11-24 12:36:27,445 : INFO : Try to read cron file
+2021-11-24 12:36:27,451 : INFO : Trying run commands
+2021-11-24 12:36:27,451 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:36:27,452 : INFO : Go to the next time
+2021-11-24 12:36:27,452 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:36:27,456 : INFO : Go to the next time
+2021-11-24 12:36:27,456 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:36:27,457 : INFO : Go to the next time
+2021-11-24 12:36:27,457 : DEBUG : Will check this time: @hourly
+2021-11-24 12:36:27,457 : INFO : Go to the next time
+2021-11-24 12:36:27,460 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:36:27,464 : INFO : Go to the next time
+2021-11-24 12:36:27,464 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:36:27,465 : INFO : Go to the next time
+2021-11-24 12:36:27,465 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:36:27,467 : INFO : Go to the next time
+2021-11-24 12:36:37,641 : INFO : Try to read cron file
+2021-11-24 12:36:37,648 : INFO : Trying run commands
+2021-11-24 12:36:37,652 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:36:37,653 : INFO : Go to the next time
+2021-11-24 12:36:37,653 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:36:37,657 : INFO : Go to the next time
+2021-11-24 12:36:37,658 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:36:37,659 : INFO : Go to the next time
+2021-11-24 12:36:37,659 : DEBUG : Will check this time: @hourly
+2021-11-24 12:36:37,659 : INFO : Go to the next time
+2021-11-24 12:36:37,659 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:36:37,661 : INFO : Go to the next time
+2021-11-24 12:36:37,661 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:36:37,666 : INFO : Go to the next time
+2021-11-24 12:36:37,666 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:36:37,667 : INFO : Go to the next time
+2021-11-24 12:37:26,525 : INFO : Try to read cron file
+2021-11-24 12:37:26,541 : INFO : Trying run commands
+2021-11-24 12:37:26,544 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:37:26,548 : INFO : Go to the next time
+2021-11-24 12:37:26,548 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:37:26,553 : INFO : Go to the next time
+2021-11-24 12:37:26,556 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:37:26,558 : INFO : Go to the next time
+2021-11-24 12:37:26,558 : DEBUG : Will check this time: @hourly
+2021-11-24 12:37:26,560 : INFO : Go to the next time
+2021-11-24 12:37:26,560 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:37:26,565 : INFO : Go to the next time
+2021-11-24 12:37:26,568 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:37:26,574 : INFO : Go to the next time
+2021-11-24 12:37:26,574 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:37:26,577 : INFO : Go to the next time
+2021-11-24 12:37:36,726 : INFO : Try to read cron file
+2021-11-24 12:37:36,744 : INFO : Trying run commands
+2021-11-24 12:37:36,823 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:37:36,840 : INFO : Go to the next time
+2021-11-24 12:37:36,841 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:37:36,842 : INFO : Go to the next time
+2021-11-24 12:37:36,843 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:37:36,845 : INFO : Go to the next time
+2021-11-24 12:37:36,845 : DEBUG : Will check this time: @hourly
+2021-11-24 12:37:36,881 : INFO : Go to the next time
+2021-11-24 12:37:36,882 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:37:36,884 : INFO : Go to the next time
+2021-11-24 12:37:36,889 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:37:36,899 : INFO : Go to the next time
+2021-11-24 12:37:36,899 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:37:36,926 : INFO : Go to the next time
+2021-11-24 12:38:25,633 : INFO : Try to read cron file
+2021-11-24 12:38:25,643 : INFO : Trying run commands
+2021-11-24 12:38:25,649 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:38:25,651 : INFO : Go to the next time
+2021-11-24 12:38:25,651 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:38:25,652 : INFO : Go to the next time
+2021-11-24 12:38:25,652 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:38:25,653 : INFO : Go to the next time
+2021-11-24 12:38:25,657 : DEBUG : Will check this time: @hourly
+2021-11-24 12:38:25,658 : INFO : Go to the next time
+2021-11-24 12:38:25,659 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:38:25,660 : INFO : Go to the next time
+2021-11-24 12:38:25,660 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:38:25,666 : INFO : Go to the next time
+2021-11-24 12:38:25,666 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:38:25,667 : INFO : Go to the next time
+2021-11-24 12:38:35,985 : INFO : Try to read cron file
+2021-11-24 12:38:36,000 : INFO : Trying run commands
+2021-11-24 12:38:36,005 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:38:36,007 : INFO : Go to the next time
+2021-11-24 12:38:36,008 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:38:36,142 : INFO : Go to the next time
+2021-11-24 12:38:36,143 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:38:36,146 : INFO : Go to the next time
+2021-11-24 12:38:36,147 : DEBUG : Will check this time: @hourly
+2021-11-24 12:38:36,154 : INFO : Go to the next time
+2021-11-24 12:38:36,155 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:38:36,158 : INFO : Go to the next time
+2021-11-24 12:38:36,159 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:38:36,161 : INFO : Go to the next time
+2021-11-24 12:38:36,161 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:38:36,180 : INFO : Go to the next time
+2021-11-24 12:39:24,725 : INFO : Try to read cron file
+2021-11-24 12:39:24,741 : INFO : Trying run commands
+2021-11-24 12:39:24,746 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:39:24,748 : INFO : Go to the next time
+2021-11-24 12:39:24,749 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:39:24,756 : INFO : Go to the next time
+2021-11-24 12:39:24,756 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:39:24,766 : INFO : Go to the next time
+2021-11-24 12:39:24,766 : DEBUG : Will check this time: @hourly
+2021-11-24 12:39:24,768 : INFO : Go to the next time
+2021-11-24 12:39:24,768 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:39:24,782 : INFO : Go to the next time
+2021-11-24 12:39:24,782 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:39:24,784 : INFO : Go to the next time
+2021-11-24 12:39:24,785 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:39:24,788 : INFO : Go to the next time
+2021-11-24 12:39:35,241 : INFO : Try to read cron file
+2021-11-24 12:39:35,251 : INFO : Trying run commands
+2021-11-24 12:39:35,252 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:39:35,256 : INFO : Go to the next time
+2021-11-24 12:39:35,257 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:39:35,258 : INFO : Go to the next time
+2021-11-24 12:39:35,258 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:39:35,259 : INFO : Go to the next time
+2021-11-24 12:39:35,260 : DEBUG : Will check this time: @hourly
+2021-11-24 12:39:35,260 : INFO : Go to the next time
+2021-11-24 12:39:35,261 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:39:35,270 : INFO : Go to the next time
+2021-11-24 12:39:35,270 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:39:35,272 : INFO : Go to the next time
+2021-11-24 12:39:35,272 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:39:35,277 : INFO : Go to the next time
+2021-11-24 12:40:23,845 : INFO : Try to read cron file
+2021-11-24 12:40:23,856 : INFO : Trying run commands
+2021-11-24 12:40:23,859 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:40:23,864 : INFO : Go to the next time
+2021-11-24 12:40:23,864 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:40:23,868 : INFO : Go to the next time
+2021-11-24 12:40:23,868 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:40:23,870 : INFO : Go to the next time
+2021-11-24 12:40:23,870 : DEBUG : Will check this time: @hourly
+2021-11-24 12:40:23,871 : INFO : Go to the next time
+2021-11-24 12:40:23,871 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:40:23,872 : INFO : Go to the next time
+2021-11-24 12:40:23,873 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:40:23,879 : INFO : Go to the next time
+2021-11-24 12:40:23,880 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:40:23,882 : INFO : Go to the next time
+2021-11-24 12:40:34,337 : INFO : Try to read cron file
+2021-11-24 12:40:34,344 : INFO : Trying run commands
+2021-11-24 12:40:34,347 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:40:34,348 : INFO : Go to the next time
+2021-11-24 12:40:34,348 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:40:34,353 : INFO : Go to the next time
+2021-11-24 12:40:34,353 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:40:34,355 : INFO : Go to the next time
+2021-11-24 12:40:34,355 : DEBUG : Will check this time: @hourly
+2021-11-24 12:40:34,356 : INFO : Go to the next time
+2021-11-24 12:40:34,356 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:40:34,361 : INFO : Go to the next time
+2021-11-24 12:40:34,362 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:40:34,363 : INFO : Go to the next time
+2021-11-24 12:40:34,363 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:40:34,369 : INFO : Go to the next time
+2021-11-24 12:41:22,941 : INFO : Try to read cron file
+2021-11-24 12:41:22,952 : INFO : Trying run commands
+2021-11-24 12:41:22,956 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:41:22,959 : INFO : Go to the next time
+2021-11-24 12:41:22,959 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:41:22,960 : INFO : Go to the next time
+2021-11-24 12:41:22,960 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:41:22,961 : INFO : Go to the next time
+2021-11-24 12:41:22,961 : DEBUG : Will check this time: @hourly
+2021-11-24 12:41:22,966 : INFO : Go to the next time
+2021-11-24 12:41:22,966 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:41:22,967 : INFO : Go to the next time
+2021-11-24 12:41:22,967 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:41:22,968 : INFO : Go to the next time
+2021-11-24 12:41:22,968 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:41:22,973 : INFO : Go to the next time
+2021-11-24 12:41:33,429 : INFO : Try to read cron file
+2021-11-24 12:41:33,432 : INFO : Trying run commands
+2021-11-24 12:41:33,433 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:41:33,433 : INFO : Go to the next time
+2021-11-24 12:41:33,439 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:41:33,440 : INFO : Go to the next time
+2021-11-24 12:41:33,440 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:41:33,444 : INFO : Go to the next time
+2021-11-24 12:41:33,444 : DEBUG : Will check this time: @hourly
+2021-11-24 12:41:33,445 : INFO : Go to the next time
+2021-11-24 12:41:33,445 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:41:33,448 : INFO : Go to the next time
+2021-11-24 12:41:33,448 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:41:33,453 : INFO : Go to the next time
+2021-11-24 12:41:33,453 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:41:33,454 : INFO : Go to the next time
+2021-11-24 12:42:22,033 : INFO : Try to read cron file
+2021-11-24 12:42:22,037 : INFO : Trying run commands
+2021-11-24 12:42:22,041 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:42:22,042 : INFO : Go to the next time
+2021-11-24 12:42:22,042 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:42:22,043 : INFO : Go to the next time
+2021-11-24 12:42:22,043 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:42:22,043 : INFO : Go to the next time
+2021-11-24 12:42:22,044 : DEBUG : Will check this time: @hourly
+2021-11-24 12:42:22,044 : INFO : Go to the next time
+2021-11-24 12:42:22,044 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:42:22,050 : INFO : Go to the next time
+2021-11-24 12:42:22,050 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:42:22,051 : INFO : Go to the next time
+2021-11-24 12:42:22,051 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:42:22,052 : INFO : Go to the next time
+2021-11-24 12:42:32,513 : INFO : Try to read cron file
+2021-11-24 12:42:32,517 : INFO : Trying run commands
+2021-11-24 12:42:32,524 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:42:32,525 : INFO : Go to the next time
+2021-11-24 12:42:32,525 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:42:32,526 : INFO : Go to the next time
+2021-11-24 12:42:32,526 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:42:32,527 : INFO : Go to the next time
+2021-11-24 12:42:32,527 : DEBUG : Will check this time: @hourly
+2021-11-24 12:42:32,527 : INFO : Go to the next time
+2021-11-24 12:42:32,528 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:42:32,533 : INFO : Go to the next time
+2021-11-24 12:42:32,533 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:42:32,534 : INFO : Go to the next time
+2021-11-24 12:42:32,534 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:42:32,535 : INFO : Go to the next time
+2021-11-24 12:43:21,109 : INFO : Try to read cron file
+2021-11-24 12:43:21,113 : INFO : Trying run commands
+2021-11-24 12:43:21,113 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:43:21,114 : INFO : Go to the next time
+2021-11-24 12:43:21,114 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:43:21,115 : INFO : Go to the next time
+2021-11-24 12:43:21,115 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:43:21,115 : INFO : Go to the next time
+2021-11-24 12:43:21,116 : DEBUG : Will check this time: @hourly
+2021-11-24 12:43:21,116 : INFO : Go to the next time
+2021-11-24 12:43:21,116 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:43:21,118 : INFO : Go to the next time
+2021-11-24 12:43:21,118 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:43:21,119 : INFO : Go to the next time
+2021-11-24 12:43:21,119 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:43:21,120 : INFO : Go to the next time
+2021-11-24 12:43:31,593 : INFO : Try to read cron file
+2021-11-24 12:43:31,610 : INFO : Trying run commands
+2021-11-24 12:43:31,611 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:43:31,612 : INFO : Go to the next time
+2021-11-24 12:43:31,612 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:43:31,613 : INFO : Go to the next time
+2021-11-24 12:43:31,613 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:43:31,620 : INFO : Go to the next time
+2021-11-24 12:43:31,621 : DEBUG : Will check this time: @hourly
+2021-11-24 12:43:31,622 : INFO : Go to the next time
+2021-11-24 12:43:31,622 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:43:31,625 : INFO : Go to the next time
+2021-11-24 12:43:31,641 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:43:31,642 : INFO : Go to the next time
+2021-11-24 12:43:31,642 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:43:31,643 : INFO : Go to the next time
+2021-11-24 12:44:20,177 : INFO : Try to read cron file
+2021-11-24 12:44:20,187 : INFO : Trying run commands
+2021-11-24 12:44:20,188 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:44:20,189 : INFO : Go to the next time
+2021-11-24 12:44:20,189 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:44:20,194 : INFO : Go to the next time
+2021-11-24 12:44:20,194 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:44:20,203 : INFO : Go to the next time
+2021-11-24 12:44:20,204 : DEBUG : Will check this time: @hourly
+2021-11-24 12:44:20,208 : INFO : Go to the next time
+2021-11-24 12:44:20,209 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:44:20,210 : INFO : Go to the next time
+2021-11-24 12:44:20,210 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:44:20,217 : INFO : Go to the next time
+2021-11-24 12:44:20,217 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:44:20,219 : INFO : Go to the next time
+2021-11-24 12:44:30,702 : INFO : Try to read cron file
+2021-11-24 12:44:30,717 : INFO : Trying run commands
+2021-11-24 12:44:30,717 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:44:30,722 : INFO : Go to the next time
+2021-11-24 12:44:30,722 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:44:30,723 : INFO : Go to the next time
+2021-11-24 12:44:30,723 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:44:30,724 : INFO : Go to the next time
+2021-11-24 12:44:30,725 : DEBUG : Will check this time: @hourly
+2021-11-24 12:44:30,730 : INFO : Go to the next time
+2021-11-24 12:44:30,730 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:44:30,736 : INFO : Go to the next time
+2021-11-24 12:44:30,737 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:44:30,739 : INFO : Go to the next time
+2021-11-24 12:44:30,740 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:44:30,746 : INFO : Go to the next time
+2021-11-24 12:45:19,278 : INFO : Try to read cron file
+2021-11-24 12:45:19,310 : INFO : Trying run commands
+2021-11-24 12:45:19,310 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:45:19,321 : INFO : Go to the next time
+2021-11-24 12:45:19,326 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:45:19,334 : INFO : Go to the next time
+2021-11-24 12:45:19,334 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:45:19,336 : INFO : Go to the next time
+2021-11-24 12:45:19,336 : DEBUG : Will check this time: @hourly
+2021-11-24 12:45:19,353 : INFO : Go to the next time
+2021-11-24 12:45:19,354 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:45:19,368 : INFO : Go to the next time
+2021-11-24 12:45:19,368 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:45:19,384 : INFO : Go to the next time
+2021-11-24 12:45:19,384 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:45:19,392 : INFO : Go to the next time
+2021-11-24 12:45:29,805 : INFO : Try to read cron file
+2021-11-24 12:45:29,823 : INFO : Trying run commands
+2021-11-24 12:45:29,823 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:45:29,825 : INFO : Go to the next time
+2021-11-24 12:45:29,825 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:45:29,830 : INFO : Go to the next time
+2021-11-24 12:45:29,830 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:45:29,837 : INFO : Go to the next time
+2021-11-24 12:45:29,838 : DEBUG : Will check this time: @hourly
+2021-11-24 12:45:29,839 : INFO : Go to the next time
+2021-11-24 12:45:29,839 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:45:29,847 : INFO : Go to the next time
+2021-11-24 12:45:29,847 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:45:29,849 : INFO : Go to the next time
+2021-11-24 12:45:29,850 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:45:29,851 : INFO : Go to the next time
+2021-11-24 12:46:18,450 : INFO : Try to read cron file
+2021-11-24 12:46:18,459 : INFO : Trying run commands
+2021-11-24 12:46:18,459 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:46:18,460 : INFO : Go to the next time
+2021-11-24 12:46:18,460 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:46:18,461 : INFO : Go to the next time
+2021-11-24 12:46:18,461 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:46:18,472 : INFO : Go to the next time
+2021-11-24 12:46:18,473 : DEBUG : Will check this time: @hourly
+2021-11-24 12:46:18,475 : INFO : Go to the next time
+2021-11-24 12:46:18,476 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:46:18,480 : INFO : Go to the next time
+2021-11-24 12:46:18,480 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:46:18,494 : INFO : Go to the next time
+2021-11-24 12:46:18,494 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:46:18,495 : INFO : Go to the next time
+2021-11-24 12:46:28,909 : INFO : Try to read cron file
+2021-11-24 12:46:28,913 : INFO : Trying run commands
+2021-11-24 12:46:28,915 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:46:28,916 : INFO : Go to the next time
+2021-11-24 12:46:28,916 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:46:28,920 : INFO : Go to the next time
+2021-11-24 12:46:28,921 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:46:28,921 : INFO : Go to the next time
+2021-11-24 12:46:28,922 : DEBUG : Will check this time: @hourly
+2021-11-24 12:46:28,922 : INFO : Go to the next time
+2021-11-24 12:46:28,923 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:46:28,930 : INFO : Go to the next time
+2021-11-24 12:46:28,930 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:46:28,931 : INFO : Go to the next time
+2021-11-24 12:46:28,931 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:46:28,932 : INFO : Go to the next time
+2021-11-24 12:47:17,553 : INFO : Try to read cron file
+2021-11-24 12:47:17,571 : INFO : Trying run commands
+2021-11-24 12:47:17,571 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:47:17,587 : INFO : Go to the next time
+2021-11-24 12:47:17,588 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:47:17,597 : INFO : Go to the next time
+2021-11-24 12:47:17,598 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:47:17,600 : INFO : Go to the next time
+2021-11-24 12:47:17,610 : DEBUG : Will check this time: @hourly
+2021-11-24 12:47:17,611 : INFO : Go to the next time
+2021-11-24 12:47:17,612 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:47:17,623 : INFO : Go to the next time
+2021-11-24 12:47:17,623 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:47:17,634 : INFO : Go to the next time
+2021-11-24 12:47:17,644 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:47:17,647 : INFO : Go to the next time
+2021-11-24 12:47:27,990 : INFO : Try to read cron file
+2021-11-24 12:47:28,009 : INFO : Trying run commands
+2021-11-24 12:47:28,015 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:47:28,023 : INFO : Go to the next time
+2021-11-24 12:47:28,024 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:47:28,032 : INFO : Go to the next time
+2021-11-24 12:47:28,032 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:47:28,042 : INFO : Go to the next time
+2021-11-24 12:47:28,042 : DEBUG : Will check this time: @hourly
+2021-11-24 12:47:28,044 : INFO : Go to the next time
+2021-11-24 12:47:28,044 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:47:28,060 : INFO : Go to the next time
+2021-11-24 12:47:28,060 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:47:28,068 : INFO : Go to the next time
+2021-11-24 12:47:28,078 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:47:28,080 : INFO : Go to the next time
+2021-11-24 12:48:16,705 : INFO : Try to read cron file
+2021-11-24 12:48:16,728 : INFO : Trying run commands
+2021-11-24 12:48:16,728 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:48:16,737 : INFO : Go to the next time
+2021-11-24 12:48:16,738 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:48:16,739 : INFO : Go to the next time
+2021-11-24 12:48:16,740 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:48:16,744 : INFO : Go to the next time
+2021-11-24 12:48:16,745 : DEBUG : Will check this time: @hourly
+2021-11-24 12:48:16,749 : INFO : Go to the next time
+2021-11-24 12:48:16,750 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:48:16,752 : INFO : Go to the next time
+2021-11-24 12:48:16,753 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:48:16,759 : INFO : Go to the next time
+2021-11-24 12:48:16,760 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:48:16,766 : INFO : Go to the next time
+2021-11-24 12:48:27,143 : INFO : Try to read cron file
+2021-11-24 12:48:27,159 : INFO : Trying run commands
+2021-11-24 12:48:27,160 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:48:27,168 : INFO : Go to the next time
+2021-11-24 12:48:27,174 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:48:27,176 : INFO : Go to the next time
+2021-11-24 12:48:27,177 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:48:27,183 : INFO : Go to the next time
+2021-11-24 12:48:27,184 : DEBUG : Will check this time: @hourly
+2021-11-24 12:48:27,197 : INFO : Go to the next time
+2021-11-24 12:48:27,198 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:48:27,214 : INFO : Go to the next time
+2021-11-24 12:48:27,215 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:48:27,217 : INFO : Go to the next time
+2021-11-24 12:48:27,222 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:48:27,223 : INFO : Go to the next time
+2021-11-24 12:49:15,825 : INFO : Try to read cron file
+2021-11-24 12:49:15,836 : INFO : Trying run commands
+2021-11-24 12:49:15,837 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:49:15,842 : INFO : Go to the next time
+2021-11-24 12:49:15,842 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:49:15,844 : INFO : Go to the next time
+2021-11-24 12:49:15,844 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:49:15,849 : INFO : Go to the next time
+2021-11-24 12:49:15,850 : DEBUG : Will check this time: @hourly
+2021-11-24 12:49:15,851 : INFO : Go to the next time
+2021-11-24 12:49:15,851 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:49:15,857 : INFO : Go to the next time
+2021-11-24 12:49:15,858 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:49:15,860 : INFO : Go to the next time
+2021-11-24 12:49:15,860 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:49:15,866 : INFO : Go to the next time
+2021-11-24 12:49:26,281 : INFO : Try to read cron file
+2021-11-24 12:49:26,292 : INFO : Trying run commands
+2021-11-24 12:49:26,293 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:49:26,296 : INFO : Go to the next time
+2021-11-24 12:49:26,297 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:49:26,303 : INFO : Go to the next time
+2021-11-24 12:49:26,303 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:49:26,310 : INFO : Go to the next time
+2021-11-24 12:49:26,310 : DEBUG : Will check this time: @hourly
+2021-11-24 12:49:26,311 : INFO : Go to the next time
+2021-11-24 12:49:26,312 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:49:26,318 : INFO : Go to the next time
+2021-11-24 12:49:26,319 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:49:26,321 : INFO : Go to the next time
+2021-11-24 12:49:26,321 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:49:26,327 : INFO : Go to the next time
+2021-11-24 12:50:14,925 : INFO : Try to read cron file
+2021-11-24 12:50:14,932 : INFO : Trying run commands
+2021-11-24 12:50:14,937 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:50:14,939 : INFO : Go to the next time
+2021-11-24 12:50:14,939 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:50:14,945 : INFO : Go to the next time
+2021-11-24 12:50:14,945 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:50:14,947 : INFO : Go to the next time
+2021-11-24 12:50:14,947 : DEBUG : Will check this time: @hourly
+2021-11-24 12:50:14,948 : INFO : Go to the next time
+2021-11-24 12:50:14,948 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:50:14,955 : INFO : Go to the next time
+2021-11-24 12:50:14,956 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:50:14,961 : INFO : Go to the next time
+2021-11-24 12:50:14,961 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:50:14,963 : INFO : Go to the next time
+2021-11-24 12:50:25,385 : INFO : Try to read cron file
+2021-11-24 12:50:25,396 : INFO : Trying run commands
+2021-11-24 12:50:25,397 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:50:25,404 : INFO : Go to the next time
+2021-11-24 12:50:25,404 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:50:25,410 : INFO : Go to the next time
+2021-11-24 12:50:25,410 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:50:25,412 : INFO : Go to the next time
+2021-11-24 12:50:25,412 : DEBUG : Will check this time: @hourly
+2021-11-24 12:50:25,417 : INFO : Go to the next time
+2021-11-24 12:50:25,418 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:50:25,420 : INFO : Go to the next time
+2021-11-24 12:50:25,420 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:50:25,426 : INFO : Go to the next time
+2021-11-24 12:50:25,426 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:50:25,430 : INFO : Go to the next time
+2021-11-24 12:51:14,021 : INFO : Try to read cron file
+2021-11-24 12:51:14,031 : INFO : Trying run commands
+2021-11-24 12:51:14,031 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:51:14,033 : INFO : Go to the next time
+2021-11-24 12:51:14,037 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:51:14,038 : INFO : Go to the next time
+2021-11-24 12:51:14,039 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:51:14,040 : INFO : Go to the next time
+2021-11-24 12:51:14,040 : DEBUG : Will check this time: @hourly
+2021-11-24 12:51:14,046 : INFO : Go to the next time
+2021-11-24 12:51:14,046 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:51:14,053 : INFO : Go to the next time
+2021-11-24 12:51:14,053 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:51:14,054 : INFO : Go to the next time
+2021-11-24 12:51:14,055 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:51:14,056 : INFO : Go to the next time
+2021-11-24 12:51:24,489 : INFO : Try to read cron file
+2021-11-24 12:51:24,503 : INFO : Trying run commands
+2021-11-24 12:51:24,503 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:51:24,509 : INFO : Go to the next time
+2021-11-24 12:51:24,510 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:51:24,511 : INFO : Go to the next time
+2021-11-24 12:51:24,512 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:51:24,516 : INFO : Go to the next time
+2021-11-24 12:51:24,516 : DEBUG : Will check this time: @hourly
+2021-11-24 12:51:24,519 : INFO : Go to the next time
+2021-11-24 12:51:24,520 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:51:24,528 : INFO : Go to the next time
+2021-11-24 12:51:24,532 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:51:24,535 : INFO : Go to the next time
+2021-11-24 12:51:24,535 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:51:24,543 : INFO : Go to the next time
+2021-11-24 12:52:13,113 : INFO : Try to read cron file
+2021-11-24 12:52:13,120 : INFO : Trying run commands
+2021-11-24 12:52:13,124 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:52:13,125 : INFO : Go to the next time
+2021-11-24 12:52:13,125 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:52:13,128 : INFO : Go to the next time
+2021-11-24 12:52:13,128 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:52:13,129 : INFO : Go to the next time
+2021-11-24 12:52:13,129 : DEBUG : Will check this time: @hourly
+2021-11-24 12:52:13,131 : INFO : Go to the next time
+2021-11-24 12:52:13,131 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:52:13,132 : INFO : Go to the next time
+2021-11-24 12:52:13,133 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:52:13,138 : INFO : Go to the next time
+2021-11-24 12:52:13,138 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:52:13,139 : INFO : Go to the next time
+2021-11-24 12:52:23,601 : INFO : Try to read cron file
+2021-11-24 12:52:23,613 : INFO : Trying run commands
+2021-11-24 12:52:23,617 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:52:23,618 : INFO : Go to the next time
+2021-11-24 12:52:23,618 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:52:23,619 : INFO : Go to the next time
+2021-11-24 12:52:23,619 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:52:23,620 : INFO : Go to the next time
+2021-11-24 12:52:23,620 : DEBUG : Will check this time: @hourly
+2021-11-24 12:52:23,621 : INFO : Go to the next time
+2021-11-24 12:52:23,621 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:52:23,626 : INFO : Go to the next time
+2021-11-24 12:52:23,626 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:52:23,627 : INFO : Go to the next time
+2021-11-24 12:52:23,627 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:52:23,628 : INFO : Go to the next time
+2021-11-24 12:53:12,197 : INFO : Try to read cron file
+2021-11-24 12:53:12,206 : INFO : Trying run commands
+2021-11-24 12:53:12,206 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:53:12,210 : INFO : Go to the next time
+2021-11-24 12:53:12,210 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:53:12,211 : INFO : Go to the next time
+2021-11-24 12:53:12,211 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:53:12,211 : INFO : Go to the next time
+2021-11-24 12:53:12,212 : DEBUG : Will check this time: @hourly
+2021-11-24 12:53:12,212 : INFO : Go to the next time
+2021-11-24 12:53:12,212 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:53:12,218 : INFO : Go to the next time
+2021-11-24 12:53:12,218 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:53:12,219 : INFO : Go to the next time
+2021-11-24 12:53:12,219 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:53:12,225 : INFO : Go to the next time
+2021-11-24 12:53:22,685 : INFO : Try to read cron file
+2021-11-24 12:53:22,689 : INFO : Trying run commands
+2021-11-24 12:53:22,691 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:53:22,692 : INFO : Go to the next time
+2021-11-24 12:53:22,692 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:53:22,696 : INFO : Go to the next time
+2021-11-24 12:53:22,696 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:53:22,697 : INFO : Go to the next time
+2021-11-24 12:53:22,698 : DEBUG : Will check this time: @hourly
+2021-11-24 12:53:22,699 : INFO : Go to the next time
+2021-11-24 12:53:22,699 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:53:22,700 : INFO : Go to the next time
+2021-11-24 12:53:22,700 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:53:22,704 : INFO : Go to the next time
+2021-11-24 12:53:22,704 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:53:22,706 : INFO : Go to the next time
+2021-11-24 12:54:11,281 : INFO : Try to read cron file
+2021-11-24 12:54:11,288 : INFO : Trying run commands
+2021-11-24 12:54:11,291 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:54:11,292 : INFO : Go to the next time
+2021-11-24 12:54:11,292 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:54:11,295 : INFO : Go to the next time
+2021-11-24 12:54:11,295 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:54:11,296 : INFO : Go to the next time
+2021-11-24 12:54:11,296 : DEBUG : Will check this time: @hourly
+2021-11-24 12:54:11,302 : INFO : Go to the next time
+2021-11-24 12:54:11,302 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:54:11,304 : INFO : Go to the next time
+2021-11-24 12:54:11,305 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:54:11,310 : INFO : Go to the next time
+2021-11-24 12:54:11,311 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:54:11,312 : INFO : Go to the next time
+2021-11-24 12:54:21,765 : INFO : Try to read cron file
+2021-11-24 12:54:21,776 : INFO : Trying run commands
+2021-11-24 12:54:21,777 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:54:21,779 : INFO : Go to the next time
+2021-11-24 12:54:21,779 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:54:21,780 : INFO : Go to the next time
+2021-11-24 12:54:21,780 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:54:21,781 : INFO : Go to the next time
+2021-11-24 12:54:21,785 : DEBUG : Will check this time: @hourly
+2021-11-24 12:54:21,787 : INFO : Go to the next time
+2021-11-24 12:54:21,787 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:54:21,792 : INFO : Go to the next time
+2021-11-24 12:54:21,793 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:54:21,813 : INFO : Go to the next time
+2021-11-24 12:54:21,817 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:54:21,819 : INFO : Go to the next time
+2021-11-24 12:55:10,369 : INFO : Try to read cron file
+2021-11-24 12:55:10,379 : INFO : Trying run commands
+2021-11-24 12:55:10,379 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:55:10,381 : INFO : Go to the next time
+2021-11-24 12:55:10,385 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:55:10,387 : INFO : Go to the next time
+2021-11-24 12:55:10,387 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:55:10,388 : INFO : Go to the next time
+2021-11-24 12:55:10,389 : DEBUG : Will check this time: @hourly
+2021-11-24 12:55:10,395 : INFO : Go to the next time
+2021-11-24 12:55:10,395 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:55:10,401 : INFO : Go to the next time
+2021-11-24 12:55:10,401 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:55:10,403 : INFO : Go to the next time
+2021-11-24 12:55:10,403 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:55:10,404 : INFO : Go to the next time
+2021-11-24 12:55:20,877 : INFO : Try to read cron file
+2021-11-24 12:55:20,889 : INFO : Trying run commands
+2021-11-24 12:55:20,889 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:55:20,891 : INFO : Go to the next time
+2021-11-24 12:55:20,891 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:55:20,892 : INFO : Go to the next time
+2021-11-24 12:55:20,892 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:55:20,893 : INFO : Go to the next time
+2021-11-24 12:55:20,897 : DEBUG : Will check this time: @hourly
+2021-11-24 12:55:20,899 : INFO : Go to the next time
+2021-11-24 12:55:20,900 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:55:20,906 : INFO : Go to the next time
+2021-11-24 12:55:20,907 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:55:20,908 : INFO : Go to the next time
+2021-11-24 12:55:20,912 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:55:20,914 : INFO : Go to the next time
+2021-11-24 12:56:09,461 : INFO : Try to read cron file
+2021-11-24 12:56:09,470 : INFO : Trying run commands
+2021-11-24 12:56:09,471 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:56:09,472 : INFO : Go to the next time
+2021-11-24 12:56:09,472 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:56:09,473 : INFO : Go to the next time
+2021-11-24 12:56:09,473 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:56:09,480 : INFO : Go to the next time
+2021-11-24 12:56:09,481 : DEBUG : Will check this time: @hourly
+2021-11-24 12:56:09,485 : INFO : Go to the next time
+2021-11-24 12:56:09,486 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:56:09,502 : INFO : Go to the next time
+2021-11-24 12:56:09,502 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:56:09,503 : INFO : Go to the next time
+2021-11-24 12:56:09,504 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:56:09,509 : INFO : Go to the next time
+2021-11-24 12:56:19,973 : INFO : Try to read cron file
+2021-11-24 12:56:19,986 : INFO : Trying run commands
+2021-11-24 12:56:19,986 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:56:19,987 : INFO : Go to the next time
+2021-11-24 12:56:19,988 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:56:19,988 : INFO : Go to the next time
+2021-11-24 12:56:19,992 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:56:19,996 : INFO : Go to the next time
+2021-11-24 12:56:19,996 : DEBUG : Will check this time: @hourly
+2021-11-24 12:56:19,997 : INFO : Go to the next time
+2021-11-24 12:56:19,997 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:56:20,002 : INFO : Go to the next time
+2021-11-24 12:56:20,003 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:56:20,004 : INFO : Go to the next time
+2021-11-24 12:56:20,004 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:56:20,015 : INFO : Go to the next time
+2021-11-24 12:57:08,569 : INFO : Try to read cron file
+2021-11-24 12:57:08,581 : INFO : Trying run commands
+2021-11-24 12:57:08,581 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:57:08,584 : INFO : Go to the next time
+2021-11-24 12:57:08,584 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:57:08,585 : INFO : Go to the next time
+2021-11-24 12:57:08,585 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:57:08,590 : INFO : Go to the next time
+2021-11-24 12:57:08,590 : DEBUG : Will check this time: @hourly
+2021-11-24 12:57:08,591 : INFO : Go to the next time
+2021-11-24 12:57:08,592 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:57:08,593 : INFO : Go to the next time
+2021-11-24 12:57:08,598 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:57:08,600 : INFO : Go to the next time
+2021-11-24 12:57:08,600 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:57:08,606 : INFO : Go to the next time
+2021-11-24 12:57:19,073 : INFO : Try to read cron file
+2021-11-24 12:57:19,086 : INFO : Trying run commands
+2021-11-24 12:57:19,087 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:57:19,088 : INFO : Go to the next time
+2021-11-24 12:57:19,089 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:57:19,090 : INFO : Go to the next time
+2021-11-24 12:57:19,091 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:57:19,091 : INFO : Go to the next time
+2021-11-24 12:57:19,092 : DEBUG : Will check this time: @hourly
+2021-11-24 12:57:19,092 : INFO : Go to the next time
+2021-11-24 12:57:19,097 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:57:19,099 : INFO : Go to the next time
+2021-11-24 12:57:19,099 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:57:19,106 : INFO : Go to the next time
+2021-11-24 12:57:19,106 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:57:19,108 : INFO : Go to the next time
+2021-11-24 12:58:07,665 : INFO : Try to read cron file
+2021-11-24 12:58:07,668 : INFO : Trying run commands
+2021-11-24 12:58:07,669 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:58:07,672 : INFO : Go to the next time
+2021-11-24 12:58:07,673 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:58:07,676 : INFO : Go to the next time
+2021-11-24 12:58:07,676 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:58:07,680 : INFO : Go to the next time
+2021-11-24 12:58:07,680 : DEBUG : Will check this time: @hourly
+2021-11-24 12:58:07,684 : INFO : Go to the next time
+2021-11-24 12:58:07,684 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:58:07,685 : INFO : Go to the next time
+2021-11-24 12:58:07,685 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:58:07,686 : INFO : Go to the next time
+2021-11-24 12:58:07,686 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:58:07,687 : INFO : Go to the next time
+2021-11-24 12:58:18,165 : INFO : Try to read cron file
+2021-11-24 12:58:18,173 : INFO : Trying run commands
+2021-11-24 12:58:18,173 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:58:18,175 : INFO : Go to the next time
+2021-11-24 12:58:18,176 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:58:18,176 : INFO : Go to the next time
+2021-11-24 12:58:18,177 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:58:18,181 : INFO : Go to the next time
+2021-11-24 12:58:18,181 : DEBUG : Will check this time: @hourly
+2021-11-24 12:58:18,182 : INFO : Go to the next time
+2021-11-24 12:58:18,183 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:58:18,184 : INFO : Go to the next time
+2021-11-24 12:58:18,184 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:58:18,188 : INFO : Go to the next time
+2021-11-24 12:58:18,188 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:58:18,189 : INFO : Go to the next time
+2021-11-24 12:59:06,745 : INFO : Try to read cron file
+2021-11-24 12:59:06,751 : INFO : Trying run commands
+2021-11-24 12:59:06,751 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:59:06,752 : INFO : Go to the next time
+2021-11-24 12:59:06,752 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:59:06,756 : INFO : Go to the next time
+2021-11-24 12:59:06,756 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:59:06,758 : INFO : Go to the next time
+2021-11-24 12:59:06,758 : DEBUG : Will check this time: @hourly
+2021-11-24 12:59:06,759 : INFO : Go to the next time
+2021-11-24 12:59:06,759 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:59:06,775 : INFO : Go to the next time
+2021-11-24 12:59:06,775 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:59:06,776 : INFO : Go to the next time
+2021-11-24 12:59:06,776 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:59:06,782 : INFO : Go to the next time
+2021-11-24 12:59:17,249 : INFO : Try to read cron file
+2021-11-24 12:59:17,256 : INFO : Trying run commands
+2021-11-24 12:59:17,257 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 12:59:17,259 : INFO : Go to the next time
+2021-11-24 12:59:17,260 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 12:59:17,260 : INFO : Go to the next time
+2021-11-24 12:59:17,260 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 12:59:17,264 : INFO : Go to the next time
+2021-11-24 12:59:17,264 : DEBUG : Will check this time: @hourly
+2021-11-24 12:59:17,264 : INFO : Go to the next time
+2021-11-24 12:59:17,265 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 12:59:17,268 : INFO : Go to the next time
+2021-11-24 12:59:17,268 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 12:59:17,275 : INFO : Go to the next time
+2021-11-24 12:59:17,275 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 12:59:17,276 : INFO : Go to the next time
+2021-11-24 13:00:05,841 : INFO : Try to read cron file
+2021-11-24 13:00:05,844 : INFO : Trying run commands
+2021-11-24 13:00:05,845 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 13:00:05,849 : INFO : Go to the next time
+2021-11-24 13:00:05,850 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 13:00:05,850 : INFO : Go to the next time
+2021-11-24 13:00:05,850 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 13:00:05,865 : INFO : Go to the next time
+2021-11-24 13:00:05,868 : DEBUG : Will check this time: @hourly
+2021-11-24 13:00:05,869 : DEBUG : Entered into task with time @hourly
+2021-11-24 13:00:05,869 : DEBUG : Will run command: 'Every hour' >> ~/Desktop/Scripts/test
+2021-11-24 13:00:05,873 : INFO : Go to the next time
+2021-11-24 13:00:05,880 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 13:00:05,891 : INFO : Go to the next time
+2021-11-24 13:00:05,892 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 13:00:05,896 : INFO : Command 'Every hour' >> ~/Desktop/Scripts/test completed successfully
+2021-11-24 13:00:05,901 : INFO : Go to the next time
+2021-11-24 13:00:05,902 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 13:00:05,903 : INFO : Go to the next time
+2021-11-24 13:00:16,333 : INFO : Try to read cron file
+2021-11-24 13:00:16,336 : INFO : Trying run commands
+2021-11-24 13:00:16,336 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 13:00:16,340 : INFO : Go to the next time
+2021-11-24 13:00:16,340 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 13:00:16,344 : INFO : Go to the next time
+2021-11-24 13:00:16,344 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 13:00:16,345 : INFO : Go to the next time
+2021-11-24 13:00:16,345 : DEBUG : Will check this time: @hourly
+2021-11-24 13:00:16,348 : DEBUG : Entered into task with time @hourly
+2021-11-24 13:00:16,348 : DEBUG : Will run command: 'Every hour' >> ~/Desktop/Scripts/test
+2021-11-24 13:00:16,350 : INFO : Go to the next time
+2021-11-24 13:00:16,352 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 13:00:16,360 : INFO : Go to the next time
+2021-11-24 13:00:16,361 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 13:00:16,369 : INFO : Command 'Every hour' >> ~/Desktop/Scripts/test completed successfully
+2021-11-24 13:00:16,374 : INFO : Go to the next time
+2021-11-24 13:00:16,374 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 13:00:16,375 : INFO : Go to the next time
+2021-11-24 13:01:04,961 : INFO : Try to read cron file
+2021-11-24 13:01:04,970 : INFO : Trying run commands
+2021-11-24 13:01:04,974 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 13:01:04,975 : INFO : Go to the next time
+2021-11-24 13:01:04,975 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 13:01:04,976 : INFO : Go to the next time
+2021-11-24 13:01:04,976 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 13:01:04,977 : INFO : Go to the next time
+2021-11-24 13:01:04,977 : DEBUG : Will check this time: @hourly
+2021-11-24 13:01:04,981 : INFO : Go to the next time
+2021-11-24 13:01:04,982 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 13:01:04,983 : INFO : Go to the next time
+2021-11-24 13:01:04,983 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 13:01:04,984 : INFO : Go to the next time
+2021-11-24 13:01:04,985 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 13:01:04,990 : INFO : Go to the next time
+2021-11-24 13:01:15,433 : INFO : Try to read cron file
+2021-11-24 13:01:15,440 : INFO : Trying run commands
+2021-11-24 13:01:15,440 : DEBUG : Will check this time: 0 5 * * 1
+2021-11-24 13:01:15,443 : INFO : Go to the next time
+2021-11-24 13:01:15,443 : DEBUG : Will check this time: 59 23 28 2 *
+2021-11-24 13:01:15,444 : INFO : Go to the next time
+2021-11-24 13:01:15,444 : DEBUG : Will check this time: 0 4 * * SUN
+2021-11-24 13:01:15,448 : INFO : Go to the next time
+2021-11-24 13:01:15,450 : DEBUG : Will check this time: @hourly
+2021-11-24 13:01:15,450 : INFO : Go to the next time
+2021-11-24 13:01:15,451 : DEBUG : Will check this time: 0 0 9-15 */2 *
+2021-11-24 13:01:15,452 : INFO : Go to the next time
+2021-11-24 13:01:15,452 : DEBUG : Will check this time: 1 4 25-31 10 *
+2021-11-24 13:01:15,456 : INFO : Go to the next time
+2021-11-24 13:01:15,456 : DEBUG : Will check this time: 0 3 25-31 3 *
+2021-11-24 13:01:15,457 : INFO : Go to the next time
